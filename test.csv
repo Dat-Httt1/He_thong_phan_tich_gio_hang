@@ -1,0 +1,10 @@
+﻿InvoiceID,CustomerID,Date,Product,Quantity,Price
+INV00001,C3242,5/28/2025,"['Butter', 'Beef', 'Eggs', 'Fish sauce', 'Chili sauce']","[5, 1, 2, 1, 2]","[32622, 98939, 231361, 137049, 54082]"
+INV00002,C5842,2/28/2025,"['Soy sauce', 'Water', 'Cake', 'Rice', 'Shrimp', 'Eggs', 'Water spinach', 'Onion', 'Butter', 'Milk']","[4, 2, 3, 6, 3, 1, 6, 2, 5, 3]","[34470, 130626, 192249, 168007, 71868, 239887, 61559, 58005, 45658, 19664]"
+INV00003,C3821,10/7/2025,"['Shrimp', 'Toilet paper']","[4, 3]","[90523, 236287]"
+INV00004,C4488,10/18/2025,"['Detergent', 'Soy sauce', 'Cheese', 'Seasoning powder', 'Sugar', 'Cake', 'Bread']","[2, 5, 3, 3, 2, 3, 6]","[99006, 148079, 122629, 68037, 229036, 58241, 212838]"
+INV00005,C8005,1/19/2025,"['Butter', 'Seasoning powder', 'Pork', 'Snack', 'Apple']","[1, 1, 6, 6, 2]","[87006, 233090, 144142, 212778, 137088]"
+INV00006,C2787,7/25/2025,"['Onion', 'Soft drink', 'Beef', 'Shampoo', 'Bread', 'Salt', 'Butter', 'Yogurt', 'Toilet paper', 'Cake']","[6, 2, 2, 3, 2, 2, 6, 5, 5, 2]","[164885, 29367, 11414, 108183, 28689, 182422, 184568, 22769, 111354, 171360]"
+INV00007,C3988,10/16/2025,"['Soy sauce', 'Snack', 'Garlic', 'Butter', 'Sugar', 'Milk']","[3, 2, 5, 6, 6, 6]","[147433, 225849, 38055, 222509, 45133, 238699]"
+INV00008,C5156,8/20/2025,"['Garlic', 'Shampoo', 'Pork', 'Salt', 'Cake', 'Detergent', 'Rice', 'Water', 'Beef', 'Fish sauce']","[6, 5, 5, 2, 6, 5, 6, 3, 2, 4]","[141370, 43070, 217517, 215281, 227991, 58749, 83145, 14060, 139477, 40525]"
+INV00009,C6435,3/21/2025,"['Shrimp', 'Apple', 'Fish', 'Sugar', 'Pork', 'Water', 'Detergent']","[4, 2, 6, 3, 5, 1, 5]","[42439, 57799, 39992, 146187, 160577, 12095, 58134]"
