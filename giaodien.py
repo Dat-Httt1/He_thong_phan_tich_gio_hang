@@ -89,6 +89,16 @@ class App(ctk.CTk):
         except:
             messagebox.showerror("Lỗi", "User đã tồn tại")
 
+
+
+
+
+
+
+
+
+
+
     def login(self):
         cursor.execute("SELECT role FROM users WHERE username=? AND password=?",
                        (self.user_entry.get(), hash_password(self.pass_entry.get())))
